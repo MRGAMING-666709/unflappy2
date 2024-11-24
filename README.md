@@ -52,12 +52,3 @@ https://github.com/user-attachments/assets/6a475124-738d-4213-b0fb-6eb3bb5cd33e
 
 Unflappy Bird is inspired by the iconic **Flappy Bird**, with a fun and inverted twist to make it uniquely challenging and enjoyable.
 This was created for a coding jam with the theme of "Build a game which highlights You are your own Enemy"
-
----
-
-### Customization Tips:
-- Add your email or a preferred contact method under the **Contact** section.
-- Include game screenshots or gifs under the **Screenshots** section to make the README more engaging.
-- If you host the game online (e.g., via WebGL), include a playable link under **How to Play**.
-
-Let me know if you'd like further tweaks! 😊
